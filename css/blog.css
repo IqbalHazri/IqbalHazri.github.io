@@ -1,0 +1,131 @@
+/* BLOG SECTION */
+.blog-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 3rem 1rem;
+  color: #0a2239;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.blog-section h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #ff8811;
+  padding-bottom: 0.5rem;
+}
+
+.blog-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.blog-item {
+  margin-bottom: 1.2rem;
+}
+
+.blog-link {
+  font-size: 1.25rem;
+  color: #0a2239;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.blog-link:hover {
+  text-decoration: underline;
+  color: #ff8811;
+}
+
+.blog-date {
+  display: block;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.2rem;
+}
+.blog-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 3rem 1rem;
+  color: #0a2239;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.blog-section h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #ff8811;
+  padding-bottom: 0.5rem;
+}
+
+.blog-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.blog-item {
+  margin-bottom: 1.2rem;
+}
+
+.blog-link {
+  font-size: 1.25rem;
+  color: #0a2239;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.blog-link:hover {
+  text-decoration: underline;
+  color: #ff8811;
+}
+
+.blog-date {
+  display: block;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.2rem;
+}
+
+.blog-post {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 3rem 1rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #0a2239;
+}
+
+.blog-post h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.blog-date {
+  font-size: 0.9rem;
+  color: #777;
+  margin-bottom: 1.5rem;
+}
+
+.blog-content p {
+  line-height: 1.6;
+  margin-bottom: 1.2rem;
+}
+
+.pagination {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.pagination-link {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 8px 16px;
+  background-color: #0a2239;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.pagination-link:hover {
+  background-color: #ff8811;
+}

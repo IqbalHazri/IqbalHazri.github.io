@@ -1,0 +1,43 @@
+.yearhero {
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardContainer {
+    width: 100%;
+    background-color: rgb(173, 216, 230);
+    padding: 90px 10%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    justify-content: center;
+}
+
+.cardContainer .card {
+    width: 40%;
+    height: auto;
+    background-color: rgb(10, 34, 57);
+    border-radius: 50px;
+    padding: 35px;
+    color: rgb(173, 216, 230);
+    text-align: center;
+    box-shadow: 5px 5px 10px 1px #ff8811;
+}
+
+.card img {
+    width: auto;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.card p {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.card span a {
+    text-decoration: none;
+    color: rgb(255, 136, 17);
+}
