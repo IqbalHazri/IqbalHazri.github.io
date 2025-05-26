@@ -3,7 +3,7 @@ name: Build and Deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - test-env  # or 'main' if you deploy from another branch
+      - main
 
 permissions:
   contents: write  # Needed to push to gh-pages branch
