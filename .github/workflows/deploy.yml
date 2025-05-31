@@ -19,7 +19,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1  # Match your local Ruby version
+          ruby-version: 3.3  # Match your local Ruby version
           bundler-cache: true
 
       - name: Install dependencies
